@@ -1,0 +1,91 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 02 Apr 2024 22:09:33 at https://kittencoin/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+kittencoin
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://kittencoin/ -O1 "D:\Websites\kittencoin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, mkittencoinsitive information,kittencoin
+kittencoinkittencoin
+	such as username/password authentication for websikittencoinn this projectkittencoin
+kittencoinkittencoin
+	do not share these files/folders if you want thesekittencoino remain privatekittencoin
+kittencoinkittencoin
+kittencoinkittencoin
+kittencoinkittencoin
+22:09:41	Error: 	"Not Found" (404) at link https://kittencoin/cdn.jsdelivr.net/npm/swiper%408.3.2/swiper-bundle.mikittencointps://kittencoin/)
+kittencoinkittencoin
+22:09:41	Error: 	"Not Found" (404) at link https://kittencoin/cdn.jsdelivr.net/npm/uikit%403.15.1/dist/css/uikit.min.css (frkittencointencoin.lol/)
+kittencoinkittencoin
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/landing-03.html (from https://kittencoin/)kittencoin
+kittencoinkittencoin
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/images/blob-dashed.svg (from https://kittencoin/)kittencoin
+kittencoinkittencoin
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/syne/Syne-Bold.woff2 (from https://kittencoin.lkittencointheme/main.min.css)
+kittencoinkittencoin
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/syne/Syne-Bold.woff (from https://kittencoinkittencoins/theme/main.min.css)
+kittencoinkittencoin
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/stolzl/Stolzl-Book.woff2 (from https://kittenkittencoins/css/theme/main.min.css)
+kittencoinkittencoin
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/stolzl/Stolzl-Book.woff (from https://kittencoin/kittencoinme/main.min.css)
+kittencoinkittencoin
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/stolzl/Stolzl-Bold.woff2 (from https://kittencoin/kittencoinme/main.min.css)
+kittencoinkittencoin
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/stolzl/Stolzl-Bold.woff (from https://kitkittencoinsets/css/theme/main.min.css)
+kittencoinkittencoin
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/stolzl/StolzlDisplay-Regular.woff2 (from hkittencoinoin.lol/assets/css/theme/main.min.css)
+kittencoinkittencoin
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/stolzl/StolzlDisplay-Regular.woff (from htkittencoinin.lol/assets/css/theme/main.min.css)
+kittencoinkittencoin
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/stolzl/StolzlDisplay-Bold.woff2 (from httpskittencoinlol/assets/css/theme/main.min.css)
+kittencoinkittencoin
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/stolzl/StolzlDisplay-Bold.woff (from httpskittencoinlol/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/power-grotesk/PowerGrotesk-UltraBold.woff2 (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/power-grotesk/PowerGrotesk-UltraBold.woff (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/mabry-pro/MabryPro-Regular.woff2 (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/mabry-pro/MabryPro-Regular.woff (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/mabry-pro/MabryPro-Bold.woff2 (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/mabry-pro/MabryPro-Bold.woff (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/mabry-pro/MabryPro-Black.woff2 (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/mabry-pro/MabryPro-Black.woff (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/clash-display/ClashDisplayRegular.woff (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/clash-display/ClashDisplayMedium.woff (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/clash-display/ClashDisplaySemibold.woff (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/clash-display/ClashDisplayBold.woff (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/unicons/Unicons.eot?lkolxg (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/unicons/Unicons.ttf?lkolxg (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/unicons/Unicons.woff?lkolxg (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/unicons/Unicons.svg?lkolxg (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/brand-icons/brand-icons.eot (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/brand-icons/brand-icons.woff2 (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/brand-icons/brand-icons.woff (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/brand-icons/brand-icons.ttf (from https://kittencoin/assets/css/theme/main.min.css)
+
+22:09:49	Error: 	"Not Found" (404) at link https://kittencoin/assets/fonts/brand-icons/brand-icons.svg (from https://kittencoin/assets/css/theme/main.min.css)
+
+
+
+
+(35 errors, 0 warnings, 0 messages)
+
